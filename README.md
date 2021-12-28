@@ -1,10 +1,10 @@
 # PDF_Rotator
 A pdf page rotator.
 
-The API rotates the specified page in the given angle and replace that page back into the PDF. The PDF file can be an image PDF or true PDF
-
+The API rotates the specified page in the given angle and replace that page back into the PDF. The PDF file can be an image PDF or true PDF.
 
 Sending Request:
+
 ![image](https://user-images.githubusercontent.com/37659765/147539263-f8c542a3-9258-4770-9a51-8fc2b94bd728.png)
 
 
